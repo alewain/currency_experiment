@@ -1,0 +1,6 @@
+google-adk>=1.28.0
+google-genai>=1.0.0
+litellm>=1.75.5        # required for non-Gemini models via LiteLlm in agents.py
+openai>=1.0.0
+python-dotenv>=1.0.0
+matplotlib>=3.7.0
